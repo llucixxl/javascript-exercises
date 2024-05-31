@@ -14,7 +14,7 @@ const convertToFahrenheit = function (value2) {
   return Number(resultToFahrenheit.toFixed(1));
 };
 
-console.log(convertToFahrenheit(1));
+console.log(convertToFahrenheit(433.1));
 
 // Do not edit below this line
 module.exports = {
